@@ -1,0 +1,10 @@
+C:\Users\9998329\desktop\ArrayWeek11\bin\Debug\netcoreapp2.0\ArrayWeek11.deps.json
+C:\Users\9998329\desktop\ArrayWeek11\bin\Debug\netcoreapp2.0\ArrayWeek11.runtimeconfig.json
+C:\Users\9998329\desktop\ArrayWeek11\bin\Debug\netcoreapp2.0\ArrayWeek11.runtimeconfig.dev.json
+C:\Users\9998329\desktop\ArrayWeek11\bin\Debug\netcoreapp2.0\ArrayWeek11.dll
+C:\Users\9998329\desktop\ArrayWeek11\bin\Debug\netcoreapp2.0\ArrayWeek11.pdb
+C:\Users\9998329\desktop\ArrayWeek11\obj\Debug\netcoreapp2.0\ArrayWeek11.csproj.CoreCompileInputs.cache
+C:\Users\9998329\desktop\ArrayWeek11\obj\Debug\netcoreapp2.0\ArrayWeek11.AssemblyInfoInputs.cache
+C:\Users\9998329\desktop\ArrayWeek11\obj\Debug\netcoreapp2.0\ArrayWeek11.AssemblyInfo.cs
+C:\Users\9998329\desktop\ArrayWeek11\obj\Debug\netcoreapp2.0\ArrayWeek11.dll
+C:\Users\9998329\desktop\ArrayWeek11\obj\Debug\netcoreapp2.0\ArrayWeek11.pdb
